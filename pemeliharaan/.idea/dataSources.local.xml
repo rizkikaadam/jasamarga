@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - db_pemeliharaan@localhost" uuid="18c8072c-36ba-4293-9529-e21a4cf99ecf">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>db_pemeliharaan.*</schema-pattern>
+      <default-schemas>db_pemeliharaan.*</default-schemas>
+    </data-source>
+  </component>
+</project>
+
